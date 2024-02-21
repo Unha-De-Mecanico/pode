@@ -1,0 +1,8 @@
+body {
+    background: rgb(21, 104, 129);
+}
+.quadrado{
+    background:rgb(128, 213, 247);
+    border-radius: 15px;
+    border-width: 20px;
+}
